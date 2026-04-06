@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week1_and_Week2/Week1_and_Week2.iml" filepath="$PROJECT_DIR$/Week1_and_Week2/Week1_and_Week2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hashmap-system-design.iml" filepath="$PROJECT_DIR$/.idea/hashmap-system-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_and_week4/week3_and_week4.iml" filepath="$PROJECT_DIR$/week3_and_week4/week3_and_week4.iml" />
     </modules>
   </component>
 </project>
